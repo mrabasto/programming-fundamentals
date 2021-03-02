@@ -57,7 +57,7 @@ Example pseudocode 1.2:
 	// Doing something with the ingredients
 	
 	prepare(vegetable)	<- a Function, or an action na ginawa natin. More on this in later lessons.
-	cook(vegetable)		<- another Function, basically ang ibig sabihin lang nito is marami tayo pwedeng gawin values natin na nakalagay sa variable and/or constant.
+	cook(vegetable)	<- another Function, basically ang ibig sabihin lang nito is marami tayo pwedeng gawin values natin na nakalagay sa variable and/or constant.
 
 In our above example na-introduce tayo sa medyo advance but simple concept, `Function`. Basically set of instructions lang yan or action na pwede mong gawin, for example: `maligo(), kumain(ulam), magchatKayCrush(crushMo)`. Ipinakita lang natin dito na **na kapag nasa proper lalagyan ang value natin, madali natin itong maa-access**. Consider the example below:
 
@@ -71,7 +71,7 @@ Example pseudocode 1.3:
 	// Doing something with the ingredients
 	
 	prepare(vegetable)	<- Error, dahil hindi ka gumawa ng lalagyanan na may pangalang 'vegetable'
-	cook(vegetable)		<- Error, hindi alam ni computer na may 'vegetable' na lalagyan dahil hindi mo naman sinabi (declare) sa kanya
+	cook(vegetable)	<- Error, hindi alam ni computer na may 'vegetable' na lalagyan dahil hindi mo naman sinabi (declare) sa kanya
 
 Another important thing to remember, **Constants are forever**, and **Variables changes**. Ibig sabihin lang nito, pag na-declare mo na ang value ng isang constant, 'di mo na ito maaaring baguhin. The opposite of a variable, once declared, maari mo parin  baguhin ang value nito whenever you need it to be.
 
