@@ -18,12 +18,12 @@ Medyo kumplikado ba bes? Kalmahin mo muna sarili mo dahil madali lang to hehe xd
 
 Bago ang lahat, may tinatawag tayo na **literal constant** or value na na inaaccept, itinatype, inilalagay mo sa iyong program whenever it is needed. Examples:
 
-	'A'						<- Isang letter A, sa alpabetong ingles
-	21						<- Number, maaring edad ng crush mo, or monthsary nyo ng ex mo. oof.
-	75.6					<- Number na may decimal, grade ko sa math noong elementary hayst
+	'A'	<- Isang letter A, sa alpabetong ingles
+	21	<- Number, maaring edad ng crush mo, or monthsary nyo ng ex mo. oof.
+	75.6	<- Number na may decimal, grade ko sa math noong elementary hayst
 	"Hi pwede mag hello?"	<- Sentence na sinend mo kay crush tapos binlock ka HAHAHA UMAY
-	false					<- Boolean value na true or false, more on this in later lessons
-	null					<- null value, more of on this in later lessons
+	false	<- Boolean value na true or false, more on this in later lessons
+	null	<- null value, more of on this in later lessons
 
 Above where examples of different values na maaring kailanganin ng program natin, and ang tawag sa kanila ay **literal constants** , or just a **literals**, or most of the time **values** lang. For now, tawagin muna natin silang **items** in order for the next example to make sense.
 

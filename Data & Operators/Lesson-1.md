@@ -94,7 +94,7 @@ So ayun na nga po ano, tapos na ang una nating lesson at ito ang mga nalaman nat
 
 - Mayroon tayong tinatawag na **literal constants** or **literals** or values na ginagamit ng ating program/application in order to produce meaningful result e.g credit card number, a letter, a sentence, name ng crush mo, number ng utang mo. etc.
 - In order for our computers to know where these values are currently located, mayroon naman tayong tinatawag **constants** and **variables** na kung saan pwede nating ilagay ang *items* or values natin.
-- **Ang isang Constant, once declared, ay forever at hindi nagbabago. Parang love ni Lord sa'yo <3.**
+- **Ang isang Constant, once declared, ay forever at hindi nagbabago, or hindi maaring baguhin. Parang love ni Lord sa'yo <3.**
 - **Ang isang Variable naman ay maaring palitan ang laman at magbago ang value.**
 
 
