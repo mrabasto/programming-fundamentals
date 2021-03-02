@@ -27,7 +27,7 @@ Bago ang lahat, may tinatawag tayo na **literal constant** or value na na inaacc
 
 Above where examples of different values na maaring kailanganin ng program natin, and ang tawag sa kanila ay **literal constants** , or just a **literals**, or most of the time **values** lang. For now, tawagin muna natin silang **items** in order for the next example to make sense.
 
-### Fact: Computers are dumb machines.
+**Fact: Computers are dumb machines.**
 
 That's right, imbento ko lang yang fact na yan. lol. Pero in reality may katotohanan rin naman yan. When we make programs and write codes, we are essentially **writing a list of instructions** for the computer to follow, similar to cooking recipes where we list down all ingredients and steps on how to produce a meal.
 
