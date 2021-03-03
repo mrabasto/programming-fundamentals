@@ -6,7 +6,7 @@ Lesson 2: Identifier Names
 
 
 ## TL; DR
-**Identifier Names** in programming were descriptive names given to items or values to make the code more meaningful to us programmers. Similar to how *labels* works. Kaya bago ka magselos, check mo muna kung may **Identifier Name** kayo. (gets mo? Identifier Name ta's Label? k bye.).
+**Identifier Names** in programming were descriptive names given to items or values to make the code more meaningful to us programmers. Similar to how *label* works. Kaya bago ka magselos, check mo muna kung may **Identifier Name** kayo. (gets mo? Identifier Name ta's Label? k bye.).
 
 ## Overview
 Within programming a variety of items are given descriptive names to make the code more meaningful to us as humans. These names are called **“Identifier Names”**. Constants, variables, type definitions, functions, etc. when declared or defined are identified by a name. These names follow a set of rules that are imposed by:
