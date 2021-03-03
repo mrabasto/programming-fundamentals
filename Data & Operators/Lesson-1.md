@@ -33,7 +33,7 @@ That's right, imbento ko lang yang fact na yan. lol. Pero in reality may katotoh
 
 Sa isang recipe, mayroong **1. Ingredients 2. Cooking steps/directions**.
 
-For now we will look at the Ingredients, gaya ng dineclare natin kanina Computers are dumb. Dumb enough na kahit sabihin mong may binili kang ingredient, hindi niya automatic na malalaman kung **saan mo ito inilagay**. This is were **constants or variables** comes into play.
+For now we will look at the Ingredients, gaya ng dineclare natin kanina Computers are dumb. Dumb enough na kahit sabihin mong may binili kang ingredient, hindi niya automatic na malalaman kung **saan mo ito inilagay**. This is where **constants or variables** comes into play.
 
 > A constant is a data item whose value cannot change, a variable is the opposite of it; a data item whose value can or may change.
 
