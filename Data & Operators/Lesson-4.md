@@ -2,7 +2,7 @@ Lesson 4: IPO Model
 ===================
 
 <p align="center">
-	<img src="https://media.giphy.com/media/cIVHCFBjFPlkciZwo0/giphy-downsized.gif" alt="samurai">
+	<img src="https://media.giphy.com/media/l0JMrPWRQkTeg3jjO/giphy.gif" alt="lego-build">
 </p>
 
 ## TL; DR
