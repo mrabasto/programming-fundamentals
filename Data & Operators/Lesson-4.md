@@ -6,7 +6,7 @@ Lesson 4: IPO Model
 </p>
 
 ## TL; DR
-**IPO** stands for **input**, **process**, and **output**. itong ang tatlong steps na bumubuo sa **Data Processing Cycle** na kung saan nagiging meaningful information ang raw data that we currently have. 'Pag na-gets mo to, sa'yo na magpapaturo mag-program ang crush mo, GARANTISADO.
+**IPO** stands for **input**, **process**, and **output**. ito ang tatlong steps na bumubuo sa **Data Processing Cycle** na kung saan nagiging meaningful information ang raw data that we currently have. 'Pag na-gets mo to, sa'yo na magpapaturo mag-program ang crush mo, GARANTISADO.
 
 ## Overview
 Data processing is the re-structuring or re-ordering of data by people or machine to increase their usefulness and add values for a particular purpose. Data processing consists of the following basic steps - input, processing, and output. [(source)](https://www.tutorialspoint.com/computer_fundamentals/computer_data.htm)
