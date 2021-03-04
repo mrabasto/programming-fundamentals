@@ -17,7 +17,7 @@ Within programming a variety of items are given descriptive names to make the co
 
 [(source)](https://press.rebus.community/programmingfundamentals/chapter/identifier-names/)
 
-## Further Chika
+## Further chika
 There's not much to say about this topic because it's very basic. But still it's important to know how can we name our values properly we our code will become more meaningful to us, and also future developers that will read our code.
 
 **Mga bagay na dapat tandaan:**
