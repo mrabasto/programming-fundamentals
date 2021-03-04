@@ -21,7 +21,7 @@ Understanding and fully grasping data types is a very important skill, because a
 
 ![it-meaning](./images/it-meaning.png)
 
-In the IT Field, we process information daily using computer systems and other technology. Before we can even have meaning information, we first need to process raw **data**.
+In the IT Field, we process information daily using computer systems and other technology. Before we can even have meaningful information, we first need to process raw **data**.
 >**Data** can be defined as a representation of facts, concepts, or instructions in a formalized manner, which should be suitable for communication, interpretation, or processing by human or electronic machine.
 >**Data** is represented with the help of characters such as alphabets (A-Z, a-z), digits (0-9) or special characters (+,-,/,*,<,>,= etc.) [(source)](https://www.tutorialspoint.com/computer_fundamentals/computer_data.htm)
 
