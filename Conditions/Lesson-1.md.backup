@@ -91,5 +91,63 @@ Ang **Switch or Case** statement is another form of selection control structure 
 	
 	// As we can see almost same mechanics lang din ito compared
 	// sa if statement. So which one should you use?
-	// For me, kung mas papasimplehin natin ang iyong code at mas mabilis mong mababasa
+	// For me, kung mas papasimplehin nito ang iyong code at mas mabilis mong mababasa
 	// then go for that approach
+```
+
+Above is a common form of a **Switch or Case statement** in most programming language. Basically what happens here is meron tayong *value* na icocompare natin sa mga *cases* na nasa loob.
+
+```
+	// Parang multiple choice lang to mga lodi
+	// let's say meron kang varible na choice
+	
+	DECLARE string variable choice
+	ASSIGN choice = "A"
+	
+	// then dito sa switch case statement natin
+	// gagamitin yung choice mo
+	
+	switch choice:
+		case "A":
+			// do something inside this block
+			break
+		case "B":
+			// do something ...
+			break
+		case "C":
+			// do something ...
+			break
+		default:
+			print("None of the above choices")
+	
+	// now if one of the case constants above nag match
+	// yung body or code block ng case na yun ang mag-eexecute
+```
+
+Kung mapapansin niyo, every time na may `case` mayroon tayong `break` na statement. Now ang purpose po nyan is kapag nag run ang isa sa mga `case` natin, kapag na-reach na ng compiler or intrepeter ng programming language na gamit natin ang `break` statement, mag-eexit na siya sa `switch` or `case` statement natin at hindi na itutuloy ang pag-read sa next cases. Personally, di ko alam ang technical term para sa ganyang pangyayari lol. pero ang tawag ko dyan is *waterfall*, dahil kapag walang `break` statement mag-rarun ang program natin pababa sa lahat ng case hanggang may makita siyang `break` statement.
+
+```
+	switch choice:
+		case "A":
+			// do something ...
+		case "B":
+			// do something ...
+		case "C":
+			// do something ...
+		default:  
+			// do something
+			
+		// What will happen here is magrarun lahat ng cases natin until
+		// mareach nya ang isang break statement or ang default case natin
+```
+
+It's good to practice both of these para mas ma-gets natin kung *kailan* at *saan* natin gagamitin ang `if` or `switch`. *Practice makes a better programmer*.
+
+## Summary para di na sumakit ulo
+- **Control Structures** are features of a programming language that allows us to create different branches our paths in our programs based on values or inputs currently set.
+- an `if` statement is a control structure where we evaluate a condition or an expression that produces a `Boolean` value; `if true` then do the statement's body/code block, `if false` then proceed to the next statement.
+- a `switch` or `case` statement is a control structure where we compare a value to different `constants` that we have set.
+
+<p align="center">
+	<img src="https://media.giphy.com/media/l2Je6sbvJEn1W9OWQ/giphy.gif" alt="puzzle">
+</p>
